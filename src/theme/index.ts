@@ -3,9 +3,9 @@ import { DefaultTheme } from 'styled-components';
 import { colors } from './colors';
 import { fonts } from './fonts';
 
-const stylertTheme: DefaultTheme = {
+const defaultTheme: DefaultTheme = {
   colors: colors,
   fonts: fonts,
 };
 
-export { stylertTheme };
+export { defaultTheme };
